@@ -166,7 +166,7 @@ Run the following command for pretraining:
 sh run_pretrain.sh
 ```
 
-You need to specify the hyperparameters for pretraining in the config files in the `dinov2/config/train/` folder.
+You need to specify the hyperparameters for pretraining in the config files in the `dinov2/config/train` folder.
 
 
 We provide download links for the pretrained model weights of CLIP ViT-B/16 and CLIP ViT-L/14:
@@ -223,7 +223,7 @@ We provide download links for fine-tuned models on 1-/16-shot settings for ViT-B
 
 > ##### *See `readme.txt` in the above links for more details of the models and hyperparameters for inference.*
 
-**Detailed results of All K-shot settings can be found in `results/` folder.**
+**Detailed results of All K-shot settings can be found in `results` folder.**
 
 
 ## Acknowledgement
