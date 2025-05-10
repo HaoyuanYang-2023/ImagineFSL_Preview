@@ -209,7 +209,7 @@ For evaluation, run the following command:
 sh run_imaginefsl_lora_eval.sh
 ```
 
-> ⚠️ **Note:** Due to the impact of randomness during training, the results on individual datasets may slightly differ from those in the paper. We recommend evaluating all methods across all 11 datasets and observing the average performance.
+> **Note:** Due to the impact of randomness during training, the results on individual datasets may slightly differ from those in the paper. We recommend evaluating all methods across all 11 datasets and observing the average performance.
 
 **Models**:
 
