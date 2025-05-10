@@ -193,7 +193,6 @@ For evaluation, run the following command:
 ```
 sh run_imaginefsl_eval.sh
 ```
-<!-- You need to specify the path to vision classifier, adapter, text classifier and pretrained model weights in the shell, and set the corresponding fusion weight and temperature optimized in the previous step.  -->
 
 **ImagineFSL_LoRA**:
 
@@ -209,9 +208,8 @@ For evaluation, run the following command:
 ```
 sh run_imaginefsl_lora_eval.sh
 ```
-<!-- You need to specify the path to vision model, vision classifier, adapter, text classifier and pretrained model weights in the shell, and set the corresponding fusion weight, rank. -->
 
-> **Note:** Due to the impact of randomness during training, the results on individual datasets may slightly differ from those in the paper. We recommend evaluating all methods across all 11 datasets and observing the average performance.
+> ⚠️ **Note:** Due to the impact of randomness during training, the results on individual datasets may slightly differ from those in the paper. We recommend evaluating all methods across all 11 datasets and observing the average performance.
 
 **Models**:
 
