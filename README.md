@@ -197,7 +197,7 @@ sh run_imaginefsl_eval.sh
 
 **ImagineFSL_LoRA**:
 
-Run the following command for ImagenFSL_LoRA$ fine-tuning:
+Run the following command for ImagenFSL_LoRA fine-tuning:
 ```
 sh run_imaginefsl_lora.sh
 ```
