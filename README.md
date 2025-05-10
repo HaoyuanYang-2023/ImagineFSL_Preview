@@ -32,7 +32,7 @@ synthetic augmentation for effective view construction.
 
 - We develop **a systematic and scalable pipeline for synthesizing both captions and images**, enabling generation
 of large-scale base sets for pretraining and task-specific
-datasets. Distinct from existing arts, **we leverage chain-of-though and in-conetext Learning techniques** for diverse, realistic image generation.
+datasets. Distinct from existing arts, **we leverage chain-of-though and in-conetext learning techniques** for diverse, realistic image generation.
 
 
 ## Installation
